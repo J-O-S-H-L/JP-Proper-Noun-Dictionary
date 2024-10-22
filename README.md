@@ -16,7 +16,7 @@ Current Version: 1.0.0
 
 ## How to Use
 
-1. Download the dictionary file from this repo.
+1. Download the [dictionary](https://github.com/J-O-S-H-L/JP-Proper-Noun-Dictionary/blob/main/jp_proper_noun_dictionary.zip) file from this repo.
 2. Add it to Yomitan following [Yomitan's guide ](https://yomitan.wiki/).
 3. Start reading and see the pop-up definitions for proper nouns!
 
