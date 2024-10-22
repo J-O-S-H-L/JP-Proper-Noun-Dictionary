@@ -1,0 +1,6 @@
+[
+    ["loc", "default", 0, "Location", 0],
+    ["per", "default", 0, "Personal Name", 0],
+    ["fam", "default", 0, "Family Name", 0],
+    ["n-pr", "PartOfSpeech", 0, "Proper Noun", 0]
+]
