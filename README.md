@@ -24,7 +24,7 @@ Current Version: 1.0.0
 
 Check out what it looks like:
 
-<img src="examples/example_1.png" alt="Yomitan Pop-up Example" width="500"/> 
+<img src="examples/example_1.png" alt="Yomitan Pop-up Example" width="100"/> 
 *In this screenshot, the dictionary shows proper nouns like "一宮町" (Ichinomiya Town) and "はじめ" (Hajime), along with their meanings and usage breakdowns.*
 
 ## Where’s the Data From?
